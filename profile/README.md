@@ -45,6 +45,3 @@ Através deste projeto, buscamos criar um sistema que ajude a mapear casos de ma
 Esperamos que este projeto contribua para a conscientização sobre a importância do bem-estar animal, incentivando a denúncia de casos de maus-tratos e o engajamento da sociedade na proteção dos animais. Além disso, pretendemos fornecer uma ferramenta eficaz para as autoridades lidarem com essas questões, resultando em melhores condições de vida para os animais e uma sociedade mais responsável e compassiva.
 
 ## Referências
-- Organização Mundial de Saúde (OMS). Disponível em: [https://www.who.int/](https://www.who.int/)
-- Referência 2
-- Referência 3
